@@ -1,0 +1,17 @@
+{
+  "student_id": "finaltest_lab3",
+  "variant_seed": 6947811140001763788,
+  "group_id": 8,
+  "parameters": {
+    "sample_count": 10,
+    "rock_types": [
+      "Gneiss",
+      "Granite",
+      "Basalt"
+    ],
+    "grade_range": {
+      "min": 0.3,
+      "max": 4.9
+    }
+  }
+}
